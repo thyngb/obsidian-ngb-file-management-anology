@@ -1,0 +1,13 @@
+{
+    "id": "obsidian-ngb-file-management-anology",
+    "name": "File Management Anology",
+    "version": "1.5.1",
+    "minAppVersion": "1.0.0",
+    "description": "A simple plugin that does something",
+    "author": "thyngb",
+    "authorURL": "https://github.com/thyngb/obsidian-ngb-file-management-anology",
+    "main": "main.js",
+    "dependencies": {},
+    "isDesktopOnly": false
+  }
+    
